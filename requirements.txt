@@ -1,0 +1,12 @@
+networkx==3.4.2
+numpy==1.26.0
+packaging==24.2
+pyqt5==5.15.11
+pyqt5-qt5==5.15.16
+pyqt5-sip==12.16.1
+pyqtwebengine==5.15.7
+pyqtwebengine-qt5==5.15.16
+pyside2==5.15.2.1
+scikit-fuzzy==0.5.0
+scipy==1.14.1
+shiboken2==5.15.2.1
