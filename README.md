@@ -1,6 +1,6 @@
 # Tipper Problem: FIS
 
-Using fuzzy logic to resolve a tipping problem given two quality inputs `service` and `food`. The output is the `tip` to give.
+Applying fuzzy logic to determine an appropriate `tip` based on two input factors: `service` quality and `food` quality.
 
 ![GUI](tipper.png)
 
